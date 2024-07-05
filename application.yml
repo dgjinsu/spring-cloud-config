@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: applicationrherthyjhjtythrjyjhertjh43e5hkguwhegkjdrhgoizegtwa3ytawn
+  secret: applicationrherthyjhjtythrjyjhertjh43e5hkguwhegkjdrhgoizegtwa3ytawn22
 
 gateway:
   ip: 127.0.0.1
