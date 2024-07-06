@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/ecommerce
+    username: root
+    password: ed092f20c6a815b4d21b03657aaebca2d2d4be9227013e07796df08c63f18eec
+
+token:
+  expiration_time: 864000000
+  secret: applicationrherthyjhjtythrjyjhertjh43e5hkguwhegkjdrhgoizegtwa3ytawn33
+
+gateway:
+  ip: 127.0.0.1
